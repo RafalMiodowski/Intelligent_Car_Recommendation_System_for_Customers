@@ -39,6 +39,8 @@ The Intelligent Car Recommendation System demonstrated a significant ability to 
 
 In a real-world scenario, this recommendation system can be integrated into car dealerships' online platforms. Customers can input their preferences, such as budget, brand, car type, and features, and the system will provide a list of recommended cars that best match their criteria. This not only enhances the customer experience but also streamlines the sales process, potentially leading to increased sales and customer loyalty.
 
+Additionally, the project included features related to social status, rated on a scale from 1 to 5, and the number of children a customer has. These factors often influence the type of car a customer chooses in real life. By incorporating social status and family size, the system can make more nuanced and accurate recommendations, aligning with real-world customer behavior.
+
 #### Future Work
 
 Future improvements could involve integrating more advanced machine learning algorithms, expanding the dataset to include more diverse car features, and incorporating real-time user feedback to continuously improve the recommendation system.
